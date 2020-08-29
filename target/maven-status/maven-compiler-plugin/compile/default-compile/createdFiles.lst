@@ -1,0 +1,10 @@
+com/goowhere/goowherebootstrap/security/jwt/filter/GooWhereJwtProperties.class
+com/goowhere/goowherebootstrap/GooWhereApplicationComponent.class
+com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthService.class
+com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.class
+com/goowhere/goowherebootstrap/sms/sms_texting/GooWhereSmsService.class
+com/goowhere/goowherebootstrap/GoowhereBootstrapApplication.class
+com/goowhere/goowherebootstrap/security/GooWhereAppSecurity.class
+com/goowhere/goowherebootstrap/model/GooWhereUserProfile.class
+com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthRestController.class
+com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileRepository.class

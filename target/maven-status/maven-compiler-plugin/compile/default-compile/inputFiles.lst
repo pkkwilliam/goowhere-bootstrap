@@ -1,0 +1,11 @@
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthService.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/security/jwt/filter/GooWhereJwtProperties.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/GoowhereBootstrapApplication.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/sms/sms_texting/GooWhereSmsService.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/security/GooWhereAppSecurity.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/sms/twilio/GooWhereTwilioProperties.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileRepository.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthRestController.java
