@@ -2,8 +2,10 @@ package com.goowhere.goowherebootstrap.model;
 
 
 import com.goowhere.sms.model.SmsUserProfile;
+import org.springframework.security.core.GrantedAuthority;
 
-import javax.persistence.Entity;
+import javax.persistence.MappedSuperclass;
+
 
 /**
  * Author: Ka Kei Pun
@@ -11,7 +13,7 @@ import javax.persistence.Entity;
  * Version: 1.0.0
  */
 
-@Entity
-public class GooWhereUserProfile extends SmsUserProfile {
+@MappedSuperclass
+public class GooWhereUserProfile<GooWhereUserRole extends GrantedAuthority> extends SmsUserProfile<GooWhereUserRole> {
 
 }
