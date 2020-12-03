@@ -25,6 +25,6 @@ public class GooWhereSmsUserProfileService<ChildProfile extends GooWhereUserProf
 
   @Override
   public ChildProfile generateEmptyProfile() {
-    return (ChildProfile) new GooWhereUserProfile();
+    return (ChildProfile) this.createDefaultRepositoryObject(new GooWhereUserProfile());
   }
 }
