@@ -14,6 +14,6 @@ import javax.persistence.MappedSuperclass;
  */
 
 @MappedSuperclass
-public class GooWhereUserProfile<GooWhereUserRole extends GrantedAuthority> extends SmsUserProfile<GooWhereUserRole> {
+public class GooWhereUserProfile<GooWhereUserRole extends GrantedAuthority, ChildProfile extends GooWhereUserProfile> extends SmsUserProfile<GooWhereUserRole, ChildProfile> {
 
 }

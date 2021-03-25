@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="d2d53d5b-b469-438e-8f62-06cb4828395f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/goowhere-bootstrap-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/goowhere-bootstrap-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
     </list>
@@ -65,52 +67,56 @@
     <session id="-1010666810">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="35" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="13" />
+          <entry key="project.open.time.1" value="23" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.opened" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="20" />
-          <entry key="java" value="43" />
+          <entry key="class" value="26" />
+          <entry key="java" value="47" />
           <entry key="md" value="1" />
           <entry key="mvnw" value="1" />
           <entry key="properties" value="3" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="20" />
-          <entry key="JAVA" value="43" />
+          <entry key="CLASS" value="26" />
+          <entry key="JAVA" value="47" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="3" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="690" />
+          <entry key="java" value="749" />
           <entry key="properties" value="13" />
+          <entry key="xml" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="690" />
+          <entry key="JAVA" value="749" />
           <entry key="Properties" value="13" />
+          <entry key="XML" value="24" />
         </counts>
       </usages-collector>
     </session>
@@ -118,37 +124,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/sms-service/0.0.4-SNAPSHOT/sms-service-0.0.4-SNAPSHOT.jar!/com/goowhere/sms/sms_auth/SmsAuthService.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/bedrock-core/0.0.4-SNAPSHOT/bedrock-core-0.0.4-SNAPSHOT.jar!/com/goowhere/core/service/user_profile/UserProfileRestController.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GoowhereBootstrapApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="27" column="86" selection-start-line="27" selection-start-column="86" selection-end-line="27" selection-end-column="86" />
+            <state relative-caret-position="390">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -157,10 +136,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthRestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -168,8 +156,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
+            <state relative-caret-position="240">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/sms-service/0.0.4-SNAPSHOT/sms-service-0.0.4-SNAPSHOT.jar!/com/goowhere/sms/model/SmsUserProfile.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/security/GooWhereAppSecurity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -186,13 +198,24 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_texting/GooWhereSmsService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="240">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#693#694#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -233,6 +256,8 @@
       <find>TableBase</find>
       <find>gw</find>
       <find>AppSecurityConfig</find>
+      <find>AppContext</find>
+      <find>RawTa</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -277,9 +302,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherespringbootstrap/security/GooWhereAppSecurity.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherespringbootstrap/GooWhereApplicationComponent.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherespringbootstrap/GoowhereSpringBootstrapApplication.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/HELP.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GoowhereBootstrapApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthRestController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/twilio/GooWhereTwilioProperties.java" />
@@ -287,9 +310,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/security/jwt/filter/GooWhereJwtProperties.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GoowhereBootstrapApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -319,8 +344,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="width" value="3440" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -389,36 +414,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="goowherebootstrap" type="462c0819:PsiDirectoryNode" />
               <item name="sms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goowhere-bootstrap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goowhere-bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="goowherebootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="sms" type="462c0819:PsiDirectoryNode" />
-              <item name="sms_auth" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goowhere-bootstrap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goowhere-bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="goowherebootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="sms" type="462c0819:PsiDirectoryNode" />
-              <item name="sms_texting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goowhere-bootstrap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goowhere-bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="goowherebootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="sms" type="462c0819:PsiDirectoryNode" />
-              <item name="sms_userprofile" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="goowhere-bootstrap" type="b2602c69:ProjectViewProjectNode" />
@@ -515,18 +510,32 @@
       <workItem from="1604471043132" duration="2000" />
       <workItem from="1605512288225" duration="13000" />
       <workItem from="1605782284528" duration="216000" />
-      <workItem from="1606979813724" duration="873000" />
+      <workItem from="1606979813724" duration="1609000" />
+      <workItem from="1607081641133" duration="9000" />
+      <workItem from="1610204020440" duration="214000" />
+      <workItem from="1611157187575" duration="785000" />
+      <workItem from="1611158063382" duration="140000" />
+      <workItem from="1611674409973" duration="22000" />
+      <workItem from="1612441975560" duration="2078000" />
+      <workItem from="1612578224558" duration="14000" />
+      <workItem from="1615953799766" duration="117000" />
+      <workItem from="1615955120226" duration="167000" />
+      <workItem from="1615966390770" duration="1146000" />
+      <workItem from="1615968121359" duration="1000" />
+      <workItem from="1615978287961" duration="727000" />
+      <workItem from="1616118193870" duration="4000" />
+      <workItem from="1616682272355" duration="39000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180161000" />
+    <option name="totallyTimeSpent" value="186360000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="3440" height="1417" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2725322" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31077105" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -542,7 +551,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.37961784" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.15773585" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32830188" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
@@ -624,7 +633,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/com/goowhere/sms-service/0.0.4-SNAPSHOT/sms-service-0.0.4-SNAPSHOT.jar!/com/goowhere/sms/sms_auth/SmsAuthService.class</url>
-          <line>70</line>
+          <line>72</line>
           <properties />
           <option name="timeStamp" value="77" />
         </line-breakpoint>
@@ -675,11 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
           <caret line="71" selection-start-line="71" selection-end-line="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#11631#11632#0" expanded="true" />
-            <element signature="e#11679#11680#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -780,13 +784,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/security/jwt/filter/GooWhereJwtProperties.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/bedrock-core/0.0.4-SNAPSHOT/bedrock-core-0.0.4-SNAPSHOT.jar!/com/goowhere/core/security/AppSecurityConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="20" column="85" selection-start-line="20" selection-start-column="85" selection-end-line="20" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -794,49 +791,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/bedrock-core/0.0.4-SNAPSHOT/bedrock-core-0.0.4-SNAPSHOT.jar!/com/goowhere/core/AppContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthService.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthRestController.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/bedrock-core/0.0.4-SNAPSHOT/bedrock-core-0.0.4-SNAPSHOT.jar!/com/goowhere/core/common/ApplicationComponent.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        <state relative-caret-position="179">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/sms-service/0.0.4-SNAPSHOT/sms-service-0.0.4-SNAPSHOT.jar!/com/goowhere/sms/sms_userprofile/SmsUserProfileService.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/bedrock-core/0.0.4-SNAPSHOT/bedrock-core-0.0.4-SNAPSHOT.jar!/com/goowhere/core/common/UserProfile.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/security/GooWhereAppSecurity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/sms-service/0.0.4-SNAPSHOT/sms-service-0.0.4-SNAPSHOT.jar!/com/goowhere/sms/sms_auth/SmsAuthRestController.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="-131">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -847,10 +813,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/bedrock-core/0.0.4-SNAPSHOT/bedrock-core-0.0.4-SNAPSHOT.jar!/com/goowhere/core/service/user_profile/UserProfileRestController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/bedrock-core/0.0.4-SNAPSHOT/bedrock-core-0.0.4-SNAPSHOT.jar!/com/goowhere/core/security/AppSecurityConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/bedrock-core/0.0.4-SNAPSHOT/bedrock-core-0.0.4-SNAPSHOT.jar!/com/goowhere/core/AppContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="49" column="103" selection-start-line="49" selection-start-column="103" selection-end-line="49" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/sms-service/0.0.4-SNAPSHOT/sms-service-0.0.4-SNAPSHOT.jar!/com/goowhere/sms/sms_auth/SmsAuthRestController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/sms-service/0.0.4-SNAPSHOT/sms-service-0.0.4-SNAPSHOT.jar!/com/goowhere/sms/sms_userprofile/SmsUserProfileService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GoowhereBootstrapApplication.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/sms-service/0.0.4-SNAPSHOT/sms-service-0.0.4-SNAPSHOT.jar!/com/goowhere/sms/sms_texting/SmsProviderServiceInterface.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthRestController.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/sms-service/0.0.4-SNAPSHOT/sms-service-0.0.4-SNAPSHOT.jar!/com/goowhere/sms/model/SmsUserProfile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -866,63 +915,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_texting/GooWhereSmsService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="240">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/security/GooWhereAppSecurity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/bedrock-core/0.0.4-SNAPSHOT/bedrock-core-0.0.4-SNAPSHOT.jar!/com/goowhere/core/service/user_profile/UserProfileRestController.class">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/bedrock-core/0.0.4-SNAPSHOT/bedrock-core-0.0.4-SNAPSHOT.jar!/com/goowhere/core/common/ApplicationComponent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/bedrock-core/0.0.4-SNAPSHOT/bedrock-core-0.0.4-SNAPSHOT.jar!/com/goowhere/core/common/UserProfile.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-131">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/sms-service/0.0.4-SNAPSHOT/sms-service-0.0.4-SNAPSHOT.jar!/com/goowhere/sms/model/SmsUserProfile.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="12" column="80" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="27" column="86" selection-start-line="27" selection-start-column="86" selection-end-line="27" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
