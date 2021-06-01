@@ -1,8 +1,8 @@
-/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java
-/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/GoowhereBootstrapApplication.java
-/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.java
-/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.java
-/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/sms/sms_texting/GooWhereSmsService.java
-/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/security/GooWhereAppSecurity.java
-/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileRepository.java
-/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthRestController.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/mo/bitcode/bitcodebootstrap/security/BitCodeAppSecurity.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/mo/bitcode/bitcodebootstrap/BitCodeApplicationComponent.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_texting/BitCodeSmsService.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/mo/bitcode/bitcodebootstrap/model/BitCodeUserProfile.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_userprofile/BitCodeSmsUserProfileService.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_userprofile/BitCodeSmsUserProfileRepository.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_auth/BitCodeSmsAuthRestController.java
+/Users/pkkwilliam/Documents/Playground/java/goowhere-bootstrap/src/main/java/mo/bitcode/bitcodebootstrap/BitCodeBootstrapApplication.java

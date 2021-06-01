@@ -3,11 +3,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.goowhere</groupId>
-	<artifactId>goowhere-bootstrap</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>goowhere-bootstrap</name>
-	<description>bootstrap for goowhere.com application which use bedrock functionality</description>
+	<groupId>mo.bitcode</groupId>
+	<artifactId>bitcode-bootstrap</artifactId>
+	<version>0.0.2-SNAPSHOT</version>
+	<name>bitcode-bootstrap</name>
+	<description>bootstrap for bitcode.mo application which use bedrock functionality</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -15,16 +15,15 @@
 
 
 	<dependencies>
-
 		<dependency>
-			<groupId>com.goowhere</groupId>
+			<groupId>mo.bitcode</groupId>
 			<artifactId>bedrock-core</artifactId>
-			<version>0.0.4-SNAPSHOT</version>
+			<version>0.0.5-SNAPSHOT</version>
 		</dependency>
 		<dependency>
-			<groupId>com.goowhere</groupId>
+			<groupId>mo.bitcode</groupId>
 			<artifactId>sms-service</artifactId>
-			<version>0.0.4-SNAPSHOT</version>
+			<version>0.0.5-SNAPSHOT</version>
 		</dependency>
 
 	</dependencies>

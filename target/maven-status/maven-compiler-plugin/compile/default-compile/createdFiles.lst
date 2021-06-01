@@ -1,8 +1,8 @@
-com/goowhere/goowherebootstrap/GooWhereApplicationComponent.class
-com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.class
-com/goowhere/goowherebootstrap/sms/sms_texting/GooWhereSmsService.class
-com/goowhere/goowherebootstrap/GoowhereBootstrapApplication.class
-com/goowhere/goowherebootstrap/security/GooWhereAppSecurity.class
-com/goowhere/goowherebootstrap/model/GooWhereUserProfile.class
-com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthRestController.class
-com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileRepository.class
+mo/bitcode/bitcodebootstrap/sms/sms_auth/BitCodeSmsAuthRestController.class
+mo/bitcode/bitcodebootstrap/sms/sms_userprofile/BitCodeSmsUserProfileRepository.class
+mo/bitcode/bitcodebootstrap/sms/sms_userprofile/BitCodeSmsUserProfileService.class
+mo/bitcode/bitcodebootstrap/BitCodeApplicationComponent.class
+mo/bitcode/bitcodebootstrap/sms/sms_texting/BitCodeSmsService.class
+mo/bitcode/bitcodebootstrap/model/BitCodeUserProfile.class
+mo/bitcode/bitcodebootstrap/security/BitCodeAppSecurity.class
+mo/bitcode/bitcodebootstrap/BitCodeBootstrapApplication.class

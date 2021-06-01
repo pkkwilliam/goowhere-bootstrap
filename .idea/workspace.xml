@@ -2,14 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2d53d5b-b469-438e-8f62-06cb4828395f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/BitCodeApplicationComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/model/BitCodeUserProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/security/BitCodeAppSecurity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_auth/BitCodeSmsAuthRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_texting/BitCodeSmsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_userprofile/BitCodeSmsUserProfileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_userprofile/BitCodeSmsUserProfileService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/goowhere-bootstrap-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/goowhere-bootstrap-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GoowhereBootstrapApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/BitCodeBootstrapApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/security/GooWhereAppSecurity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_texting/GooWhereSmsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/GoowhereBootstrapApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/security/GooWhereAppSecurity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthRestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/sms/sms_texting/GooWhereSmsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/goowhere-bootstrap-0.0.1-SNAPSHOT.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,205 +39,99 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="150462382">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="206" />
-          <entry key="cmd" value="1" />
-          <entry key="java" value="134" />
-          <entry key="properties" value="6" />
-          <entry key="xml" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="206" />
-          <entry key="JAVA" value="134" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Properties" value="6" />
-          <entry key="XML" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="class" value="16" />
-          <entry key="dummy" value="39" />
-          <entry key="java" value="4546" />
-          <entry key="properties" value="51" />
-          <entry key="xml" value="94" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CLASS" value="16" />
-          <entry key="JAVA" value="4546" />
-          <entry key="PLAIN_TEXT" value="39" />
-          <entry key="Properties" value="51" />
-          <entry key="XML" value="94" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-1010666810">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="35" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="23" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="4" />
-          <entry key="project.opened" value="39" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="26" />
-          <entry key="java" value="47" />
-          <entry key="md" value="1" />
-          <entry key="mvnw" value="1" />
-          <entry key="properties" value="3" />
-          <entry key="xml" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="26" />
-          <entry key="JAVA" value="47" />
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Properties" value="3" />
-          <entry key="XML" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="749" />
-          <entry key="properties" value="13" />
-          <entry key="xml" value="24" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="749" />
-          <entry key="Properties" value="13" />
-          <entry key="XML" value="24" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_auth/BitCodeSmsAuthRestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthRestController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/sms-service/0.0.4-SNAPSHOT/sms-service-0.0.4-SNAPSHOT.jar!/com/goowhere/sms/model/SmsUserProfile.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/security/GooWhereAppSecurity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/BitCodeApplicationComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="150">
+              <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_texting/GooWhereSmsService.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/BitCodeBootstrapApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="22" column="28" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="28" />
+            <state relative-caret-position="330">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/model/BitCodeUserProfile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#658#659#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_userprofile/BitCodeSmsUserProfileRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/security/BitCodeAppSecurity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-start-column="2" selection-end-line="11" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_texting/BitCodeSmsService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/mo/bitcode/sms-service/0.0.5-SNAPSHOT/sms-service-0.0.5-SNAPSHOT.jar!/mo/bitcode/sms/SmsProviderServiceInterface.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -258,6 +173,7 @@
       <find>AppSecurityConfig</find>
       <find>AppContext</find>
       <find>RawTa</find>
+      <find>return null</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -273,9 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/goowhere/goowherespringbootstrap/GoowhereSpringBootstrapApplicationTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherespringbootstrap/security/GooWhereSMSService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherespringbootstrap/sms/GooWhereSMSRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherespringbootstrap/model/UserProfile.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherespringbootstrap/common/GooWhereAppContext.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherespringbootstrap/GooWhereSMSService.java" />
@@ -306,15 +219,27 @@
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthRestController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/twilio/GooWhereTwilioProperties.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/security/GooWhereAppSecurity.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/security/jwt/filter/GooWhereJwtProperties.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GoowhereBootstrapApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/security/GooWhereAppSecurity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bitcode/bitcodebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bitcode/bitcodebootstrap/sms/sms_userprofile/BitCodeSmsUserProfileService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bitcode/bitcodebootstrap/sms/sms_userprofile/BitCodeSmsUserProfileRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bitcode/bitcodebootstrap/BitCodeApplicationComponent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bitcode/bitcodebootstrap/BitCodeBootstrapApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bitcode/bitcodebootstrap/model/BitCodeUserProfile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bitcode/bitcodebootstrap/security/BitCodeAppSecurity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bitcode/bitcodebootstrap/sms/sms_auth/BitCodeSmsAuthRestController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bitcode/bitcodebootstrap/sms/sms_texting/BitCodeSmsService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/BitCodeBootstrapApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_auth/BitCodeSmsAuthRestController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/security/BitCodeAppSecurity.java" />
       </list>
     </option>
   </component>
@@ -342,10 +267,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="3440" />
-    <option name="height" value="1417" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -355,6 +280,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -386,7 +312,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="goowherebootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="bitcodebootstrap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="goowhere-bootstrap" type="b2602c69:ProjectViewProjectNode" />
@@ -394,40 +320,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="goowherebootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goowhere-bootstrap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goowhere-bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="goowherebootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="bitcodebootstrap" type="462c0819:PsiDirectoryNode" />
               <item name="security" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goowhere-bootstrap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goowhere-bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="goowherebootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="sms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goowhere-bootstrap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goowhere-bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -438,7 +338,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601968492592" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616686843434" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -524,18 +424,20 @@
       <workItem from="1615968121359" duration="1000" />
       <workItem from="1615978287961" duration="727000" />
       <workItem from="1616118193870" duration="4000" />
-      <workItem from="1616682272355" duration="39000" />
+      <workItem from="1616682272355" duration="3785000" />
+      <workItem from="1616686868075" duration="32000" />
+      <workItem from="1618883270423" duration="175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186360000" />
+    <option name="totallyTimeSpent" value="190313000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="3440" height="1417" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31077105" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17381974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -551,7 +453,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.15773585" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.1566879" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32830188" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
@@ -848,51 +750,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GoowhereBootstrapApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="23" column="50" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/goowhere/sms-service/0.0.4-SNAPSHOT/sms-service-0.0.4-SNAPSHOT.jar!/com/goowhere/sms/sms_texting/SmsProviderServiceInterface.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_auth/GooWhereSmsAuthRestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/GooWhereApplicationComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/model/GooWhereUserProfile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -903,42 +764,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_userprofile/GooWhereSmsUserProfileRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_userprofile/BitCodeSmsUserProfileService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="210">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/sms/sms_texting/GooWhereSmsService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/model/BitCodeUserProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_userprofile/BitCodeSmsUserProfileRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_texting/BitCodeSmsService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="28" />
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/goowhere/goowherebootstrap/security/GooWhereAppSecurity.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/mo/bitcode/sms-service/0.0.5-SNAPSHOT/sms-service-0.0.5-SNAPSHOT.jar!/mo/bitcode/sms/SmsProviderServiceInterface.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="195">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="465">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/sms/sms_auth/BitCodeSmsAuthRestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mo/bitcode/bedrock-core/0.0.5-SNAPSHOT/bedrock-core-0.0.5-SNAPSHOT.jar!/mo/bitcode/core/security/AppSecurityConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/security/BitCodeAppSecurity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-start-column="2" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/BitCodeBootstrapApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mo/bitcode/bitcodebootstrap/BitCodeApplicationComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
         </state>
       </provider>
     </entry>
