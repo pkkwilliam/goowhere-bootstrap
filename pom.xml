@@ -5,7 +5,7 @@
 
 	<groupId>mo.bitcode</groupId>
 	<artifactId>bitcode-bootstrap</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>bitcode-bootstrap</name>
 	<description>bootstrap for bitcode.mo application which use bedrock functionality</description>
 
@@ -20,12 +20,12 @@
 		<dependency>
 			<groupId>mo.bitcode</groupId>
 			<artifactId>bedrock-core</artifactId>
-			<version>0.0.5-SNAPSHOT</version>
+			<version>0.0.6-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>mo.bitcode</groupId>
 			<artifactId>sms-service</artifactId>
-			<version>0.0.5-SNAPSHOT</version>
+			<version>0.0.6-SNAPSHOT</version>
 		</dependency>
 
 	</dependencies>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: mo.bitcode:auth-pre-check:0.0.6-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/mo/bitcode/auth-pre-check/0.0.6-SNAPSHOT/auth-pre-check-0.0.6-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/mo/bitcode/auth-pre-check/0.0.6-SNAPSHOT/auth-pre-check-0.0.6-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/mo/bitcode/auth-pre-check/0.0.6-SNAPSHOT/auth-pre-check-0.0.6-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

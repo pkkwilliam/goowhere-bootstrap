@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2d53d5b-b469-438e-8f62-06cb4828395f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mo_bitcode_auth_pre_check_0_0_5_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mo_bitcode_auth_pre_check_0_0_6_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mo_bitcode_bedrock_core_0_0_5_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mo_bitcode_bedrock_core_0_0_6_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mo_bitcode_sms_service_0_0_5_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mo_bitcode_sms_service_0_0_6_SNAPSHOT.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goowhere-bootstrap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/goowhere-bootstrap.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitcode-bootstrap-0.0.2-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,7 +298,9 @@
       <workItem from="1616682272355" duration="3785000" />
       <workItem from="1616686868075" duration="32000" />
       <workItem from="1618883270423" duration="175000" />
-      <workItem from="1622512339764" duration="398000" />
+      <workItem from="1622512339764" duration="1590000" />
+      <workItem from="1624153938935" duration="591000" />
+      <workItem from="1624286102502" duration="508000" />
     </task>
     <servers />
   </component>
